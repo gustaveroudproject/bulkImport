@@ -18,7 +18,7 @@ o = open('images.xml', 'w')
 ###################################
 ## WRITE DECLARATIONS AND BEGINNING OF THE XML FILE -adding more line breaks for readibility '+'\n'+' ???-
 ###################################
-o.write('<?xml version="1.0" encoding="UTF-8"?>'+'\n'+'<knoraXmlImport:resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://api.knora.org/ontology/knoraXmlImport/v1# ../p0112-roud-oeuvres-xml-schemas/p0112-roud-oeuvres.xsd" xmlns="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#" xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0112-roud-oeuvres="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#">'+'\n')
+o.write('<?xml version="1.0" encoding="UTF-8"?>'+'\n'+'<knoraXmlImport:resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://api.knora.org/ontology/knoraXmlImport/v1# p0112-roud-oeuvres-xml-schemas/p0112-roud-oeuvres.xsd" xmlns="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#" xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0112-roud-oeuvres="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#">'+'\n')
 
 
     
@@ -74,7 +74,7 @@ for eachDir in dirs:
             
         
         ## -----------------------> Page/@id
-        tifId = tifName
+        tifId = tifName.replace(" ", "")
     
         ## -----------------------> file/@path
         filePath = tifCompletePath
