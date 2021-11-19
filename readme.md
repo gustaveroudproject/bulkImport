@@ -1,11 +1,10 @@
 
-
 # Bulk import of manuscripts and publications pages
 
 
 **Requirements**
 - Access to scans
-- CSV (IRI, label, *or something else to identify pub*)
+- CSV (IRI, label)
 
 **Process**
 1. Create XML files
@@ -16,17 +15,6 @@
 
 
 
-
-
-## Access to Scanlett
-**Mount**	
-	
-	sudo mount -t cifs -o username=espadini,domain=ad,vers=3.0 //nas.unil.ch/scanlett /mnt/scanlettMounted
-
-**Unmount**	
-	
-	sudo umount -f /mnt/scanlettMounted
-	
 
 ## Bulk import commands
 
@@ -45,6 +33,17 @@ curl -X POST -d @backup_images_all_tif_1_copy.xml http://root%40example.com:test
 curl -X POST -d @backup_images_all_tif_1.xml http://root%40example.com:test@knora.unil.ch/v1/resources/xmlimport/http%3A%2F%2Frdfh.ch%2Fprojects%2F0112
 
 
+
+
+## Access to Scanlett
+**Mount**	
+	
+	sudo mount -t cifs -o username=espadini,domain=ad,vers=3.0 //nas.unil.ch/scanlett /mnt/scanlettMounted
+
+**Unmount**	
+	
+	sudo umount -f /mnt/scanlettMounted
+	
 
 
 
