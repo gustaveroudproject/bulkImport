@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<knoraXmlImport:resources xmlns="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#" xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0112-roud-oeuvres="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://api.knora.org/ontology/knoraXmlImport/v1# ../../p0112-roud-oeuvres-xml-schemas/p0112-roud-oeuvres.xsd">
+    <p0112-roud-oeuvres:Page id="CRLR_GR_MS2C8a_2v_3.tif" xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0112-roud-oeuvres="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#">
+        <knoraXmlImport:label>page_CRLR GR MS 2 C/8a___f. 2v___3</knoraXmlImport:label>
+        <knoraXmlImport:file mimetype="image/tiff" path="/run/scanlettMounted/GustaveRoud/E_Scan/Scans_complets/FondsArchive/CRLR_GR_MS2C8a/CRLR_GR_MS2C8a_2v_3.tif"/>
+        <p0112-roud-oeuvres:hasSeqnum knoraType="int_value">3</p0112-roud-oeuvres:hasSeqnum>
+        <p0112-roud-oeuvres:pageHasName knoraType="richtext_value">f. 2v</p0112-roud-oeuvres:pageHasName>
+        <p0112-roud-oeuvres:pageIsPartOfManuscript>
+            <p0112-roud-oeuvres:Manuscript knoraType="link_value" linkType="iri" target="http://rdfh.ch/0112/roud-oeuvres/3m6mYRAYShCHBgDSMNXPaQ"/>
+        </p0112-roud-oeuvres:pageIsPartOfManuscript>
+    </p0112-roud-oeuvres:Page>
+    <p0112-roud-oeuvres:Page id="CRLR_GR_MS2C8a_1r_1.tif" xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0112-roud-oeuvres="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#">
+        <knoraXmlImport:label>page_CRLR GR MS 2 C/8a___f. 1r___1</knoraXmlImport:label>
+        <knoraXmlImport:file mimetype="image/tiff" path="/run/scanlettMounted/GustaveRoud/E_Scan/Scans_complets/FondsArchive/CRLR_GR_MS2C8a/CRLR_GR_MS2C8a_1r_1.tif"/>
+        <p0112-roud-oeuvres:hasSeqnum knoraType="int_value">1</p0112-roud-oeuvres:hasSeqnum>
+        <p0112-roud-oeuvres:pageHasName knoraType="richtext_value">f. 1r</p0112-roud-oeuvres:pageHasName>
+        <p0112-roud-oeuvres:pageIsPartOfManuscript>
+            <p0112-roud-oeuvres:Manuscript knoraType="link_value" linkType="iri" target="http://rdfh.ch/0112/roud-oeuvres/3m6mYRAYShCHBgDSMNXPaQ"/>
+        </p0112-roud-oeuvres:pageIsPartOfManuscript>
+    </p0112-roud-oeuvres:Page>
+    <p0112-roud-oeuvres:Page id="CRLR_GR_MS2C8a_2r_2.tif" xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0112-roud-oeuvres="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#">
+        <knoraXmlImport:label>page_CRLR GR MS 2 C/8a___f. 2r___2</knoraXmlImport:label>
+        <knoraXmlImport:file mimetype="image/tiff" path="/run/scanlettMounted/GustaveRoud/E_Scan/Scans_complets/FondsArchive/CRLR_GR_MS2C8a/CRLR_GR_MS2C8a_2r_2.tif"/>
+        <p0112-roud-oeuvres:hasSeqnum knoraType="int_value">2</p0112-roud-oeuvres:hasSeqnum>
+        <p0112-roud-oeuvres:pageHasName knoraType="richtext_value">f. 2r</p0112-roud-oeuvres:pageHasName>
+        <p0112-roud-oeuvres:pageIsPartOfManuscript>
+            <p0112-roud-oeuvres:Manuscript knoraType="link_value" linkType="iri" target="http://rdfh.ch/0112/roud-oeuvres/3m6mYRAYShCHBgDSMNXPaQ"/>
+        </p0112-roud-oeuvres:pageIsPartOfManuscript>
+    </p0112-roud-oeuvres:Page>
+    <p0112-roud-oeuvres:Page id="CRLR_GR_MS2E4a_2r_3.tif" xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0112-roud-oeuvres="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#">
+        <knoraXmlImport:label>page_CRLR GR MS 2 E/4a___f. 2r___3</knoraXmlImport:label>
+        <knoraXmlImport:file mimetype="image/tiff" path="/run/scanlettMounted/GustaveRoud/E_Scan/Scans_complets/FondsArchive/CRLR_GR_MS2E4a/CRLR_GR_MS2E4a_2r_3.tif"/>
+        <p0112-roud-oeuvres:hasSeqnum knoraType="int_value">3</p0112-roud-oeuvres:hasSeqnum>
+        <p0112-roud-oeuvres:pageHasName knoraType="richtext_value">f. 2r</p0112-roud-oeuvres:pageHasName>
+        <p0112-roud-oeuvres:pageIsPartOfManuscript>
+            <p0112-roud-oeuvres:Manuscript knoraType="link_value" linkType="iri" target="http://rdfh.ch/0112/roud-oeuvres/TcZ0uF1WS0Cf7upg02iZhA"/>
+        </p0112-roud-oeuvres:pageIsPartOfManuscript>
+    </p0112-roud-oeuvres:Page>
+    <p0112-roud-oeuvres:Page id="CRLR_GR_MS2E4a_3r_5.tif" xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0112-roud-oeuvres="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#">
+        <knoraXmlImport:label>page_CRLR GR MS 2 E/4a___f. 3r___5</knoraXmlImport:label>
+        <knoraXmlImport:file mimetype="image/tiff" path="/run/scanlettMounted/GustaveRoud/E_Scan/Scans_complets/FondsArchive/CRLR_GR_MS2E4a/CRLR_GR_MS2E4a_3r_5.tif"/>
+        <p0112-roud-oeuvres:hasSeqnum knoraType="int_value">5</p0112-roud-oeuvres:hasSeqnum>
+        <p0112-roud-oeuvres:pageHasName knoraType="richtext_value">f. 3r</p0112-roud-oeuvres:pageHasName>
+        <p0112-roud-oeuvres:pageIsPartOfManuscript>
+            <p0112-roud-oeuvres:Manuscript knoraType="link_value" linkType="iri" target="http://rdfh.ch/0112/roud-oeuvres/TcZ0uF1WS0Cf7upg02iZhA"/>
+        </p0112-roud-oeuvres:pageIsPartOfManuscript>
+    </p0112-roud-oeuvres:Page>
+    <p0112-roud-oeuvres:Page id="CRLR_GR_MS2E4a_2v_4.tif" xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0112-roud-oeuvres="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#">
+        <knoraXmlImport:label>page_CRLR GR MS 2 E/4a___f. 2v___4</knoraXmlImport:label>
+        <knoraXmlImport:file mimetype="image/tiff" path="/run/scanlettMounted/GustaveRoud/E_Scan/Scans_complets/FondsArchive/CRLR_GR_MS2E4a/CRLR_GR_MS2E4a_2v_4.tif"/>
+        <p0112-roud-oeuvres:hasSeqnum knoraType="int_value">4</p0112-roud-oeuvres:hasSeqnum>
+        <p0112-roud-oeuvres:pageHasName knoraType="richtext_value">f. 2v</p0112-roud-oeuvres:pageHasName>
+        <p0112-roud-oeuvres:pageIsPartOfManuscript>
+            <p0112-roud-oeuvres:Manuscript knoraType="link_value" linkType="iri" target="http://rdfh.ch/0112/roud-oeuvres/TcZ0uF1WS0Cf7upg02iZhA"/>
+        </p0112-roud-oeuvres:pageIsPartOfManuscript>
+    </p0112-roud-oeuvres:Page>
+    <p0112-roud-oeuvres:Page id="CRLR_GR_MS2E4a_3v_6.tif" xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0112-roud-oeuvres="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#">
+        <knoraXmlImport:label>page_CRLR GR MS 2 E/4a___f. 3v___6</knoraXmlImport:label>
+        <knoraXmlImport:file mimetype="image/tiff" path="/run/scanlettMounted/GustaveRoud/E_Scan/Scans_complets/FondsArchive/CRLR_GR_MS2E4a/CRLR_GR_MS2E4a_3v_6.tif"/>
+        <p0112-roud-oeuvres:hasSeqnum knoraType="int_value">6</p0112-roud-oeuvres:hasSeqnum>
+        <p0112-roud-oeuvres:pageHasName knoraType="richtext_value">f. 3v</p0112-roud-oeuvres:pageHasName>
+        <p0112-roud-oeuvres:pageIsPartOfManuscript>
+            <p0112-roud-oeuvres:Manuscript knoraType="link_value" linkType="iri" target="http://rdfh.ch/0112/roud-oeuvres/TcZ0uF1WS0Cf7upg02iZhA"/>
+        </p0112-roud-oeuvres:pageIsPartOfManuscript>
+    </p0112-roud-oeuvres:Page>
+    <p0112-roud-oeuvres:Page id="CRLR_GR_MS2E4a_1v_2.tif" xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0112-roud-oeuvres="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#">
+        <knoraXmlImport:label>page_CRLR GR MS 2 E/4a___f. 1v___2</knoraXmlImport:label>
+        <knoraXmlImport:file mimetype="image/tiff" path="/run/scanlettMounted/GustaveRoud/E_Scan/Scans_complets/FondsArchive/CRLR_GR_MS2E4a/CRLR_GR_MS2E4a_1v_2.tif"/>
+        <p0112-roud-oeuvres:hasSeqnum knoraType="int_value">2</p0112-roud-oeuvres:hasSeqnum>
+        <p0112-roud-oeuvres:pageHasName knoraType="richtext_value">f. 1v</p0112-roud-oeuvres:pageHasName>
+        <p0112-roud-oeuvres:pageIsPartOfManuscript>
+            <p0112-roud-oeuvres:Manuscript knoraType="link_value" linkType="iri" target="http://rdfh.ch/0112/roud-oeuvres/TcZ0uF1WS0Cf7upg02iZhA"/>
+        </p0112-roud-oeuvres:pageIsPartOfManuscript>
+    </p0112-roud-oeuvres:Page>
+    <p0112-roud-oeuvres:Page id="CRLR_GR_MS2E4a_4v_8.tif" xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0112-roud-oeuvres="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#">
+        <knoraXmlImport:label>page_CRLR GR MS 2 E/4a___f. 4v___8</knoraXmlImport:label>
+        <knoraXmlImport:file mimetype="image/tiff" path="/run/scanlettMounted/GustaveRoud/E_Scan/Scans_complets/FondsArchive/CRLR_GR_MS2E4a/CRLR_GR_MS2E4a_4v_8.tif"/>
+        <p0112-roud-oeuvres:hasSeqnum knoraType="int_value">8</p0112-roud-oeuvres:hasSeqnum>
+        <p0112-roud-oeuvres:pageHasName knoraType="richtext_value">f. 4v</p0112-roud-oeuvres:pageHasName>
+        <p0112-roud-oeuvres:pageIsPartOfManuscript>
+            <p0112-roud-oeuvres:Manuscript knoraType="link_value" linkType="iri" target="http://rdfh.ch/0112/roud-oeuvres/TcZ0uF1WS0Cf7upg02iZhA"/>
+        </p0112-roud-oeuvres:pageIsPartOfManuscript>
+    </p0112-roud-oeuvres:Page>
+    <p0112-roud-oeuvres:Page id="CRLR_GR_MS2E4a_1r_1.tif" xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0112-roud-oeuvres="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#">
+        <knoraXmlImport:label>page_CRLR GR MS 2 E/4a___f. 1r___1</knoraXmlImport:label>
+        <knoraXmlImport:file mimetype="image/tiff" path="/run/scanlettMounted/GustaveRoud/E_Scan/Scans_complets/FondsArchive/CRLR_GR_MS2E4a/CRLR_GR_MS2E4a_1r_1.tif"/>
+        <p0112-roud-oeuvres:hasSeqnum knoraType="int_value">1</p0112-roud-oeuvres:hasSeqnum>
+        <p0112-roud-oeuvres:pageHasName knoraType="richtext_value">f. 1r</p0112-roud-oeuvres:pageHasName>
+        <p0112-roud-oeuvres:pageIsPartOfManuscript>
+            <p0112-roud-oeuvres:Manuscript knoraType="link_value" linkType="iri" target="http://rdfh.ch/0112/roud-oeuvres/TcZ0uF1WS0Cf7upg02iZhA"/>
+        </p0112-roud-oeuvres:pageIsPartOfManuscript>
+    </p0112-roud-oeuvres:Page>
+    <p0112-roud-oeuvres:Page id="CRLR_GR_MS2E4a_4r_7.tif" xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0112-roud-oeuvres="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#">
+        <knoraXmlImport:label>page_CRLR GR MS 2 E/4a___f. 4r___7</knoraXmlImport:label>
+        <knoraXmlImport:file mimetype="image/tiff" path="/run/scanlettMounted/GustaveRoud/E_Scan/Scans_complets/FondsArchive/CRLR_GR_MS2E4a/CRLR_GR_MS2E4a_4r_7.tif"/>
+        <p0112-roud-oeuvres:hasSeqnum knoraType="int_value">7</p0112-roud-oeuvres:hasSeqnum>
+        <p0112-roud-oeuvres:pageHasName knoraType="richtext_value">f. 4r</p0112-roud-oeuvres:pageHasName>
+        <p0112-roud-oeuvres:pageIsPartOfManuscript>
+            <p0112-roud-oeuvres:Manuscript knoraType="link_value" linkType="iri" target="http://rdfh.ch/0112/roud-oeuvres/TcZ0uF1WS0Cf7upg02iZhA"/>
+        </p0112-roud-oeuvres:pageIsPartOfManuscript>
+    </p0112-roud-oeuvres:Page>
+    <p0112-roud-oeuvres:Page id="CRLR_GR_MS2E17a_2v_4.tif" xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0112-roud-oeuvres="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#">
+        <knoraXmlImport:label>page_CRLR GR MS 2 E/17a___f. 2v___4</knoraXmlImport:label>
+        <knoraXmlImport:file mimetype="image/tiff" path="/run/scanlettMounted/GustaveRoud/E_Scan/Scans_complets/FondsArchive/CRLR_GR_MS2E17a/CRLR_GR_MS2E17a_2v_4.tif"/>
+        <p0112-roud-oeuvres:hasSeqnum knoraType="int_value">4</p0112-roud-oeuvres:hasSeqnum>
+        <p0112-roud-oeuvres:pageHasName knoraType="richtext_value">f. 2v</p0112-roud-oeuvres:pageHasName>
+        <p0112-roud-oeuvres:pageIsPartOfManuscript>
+            <p0112-roud-oeuvres:Manuscript knoraType="link_value" linkType="iri" target="http://rdfh.ch/0112/roud-oeuvres/7Atpj05lRxaVcjPImctysw"/>
+        </p0112-roud-oeuvres:pageIsPartOfManuscript>
+    </p0112-roud-oeuvres:Page>
+    <p0112-roud-oeuvres:Page id="CRLR_GR_MS2E17a_3r_5.tif" xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0112-roud-oeuvres="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#">
+        <knoraXmlImport:label>page_CRLR GR MS 2 E/17a___f. 3r___5</knoraXmlImport:label>
+        <knoraXmlImport:file mimetype="image/tiff" path="/run/scanlettMounted/GustaveRoud/E_Scan/Scans_complets/FondsArchive/CRLR_GR_MS2E17a/CRLR_GR_MS2E17a_3r_5.tif"/>
+        <p0112-roud-oeuvres:hasSeqnum knoraType="int_value">5</p0112-roud-oeuvres:hasSeqnum>
+        <p0112-roud-oeuvres:pageHasName knoraType="richtext_value">f. 3r</p0112-roud-oeuvres:pageHasName>
+        <p0112-roud-oeuvres:pageIsPartOfManuscript>
+            <p0112-roud-oeuvres:Manuscript knoraType="link_value" linkType="iri" target="http://rdfh.ch/0112/roud-oeuvres/7Atpj05lRxaVcjPImctysw"/>
+        </p0112-roud-oeuvres:pageIsPartOfManuscript>
+    </p0112-roud-oeuvres:Page>
+    <p0112-roud-oeuvres:Page id="CRLR_GR_MS2E17a_5r_8.tif" xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0112-roud-oeuvres="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#">
+        <knoraXmlImport:label>page_CRLR GR MS 2 E/17a___f. 5r___8</knoraXmlImport:label>
+        <knoraXmlImport:file mimetype="image/tiff" path="/run/scanlettMounted/GustaveRoud/E_Scan/Scans_complets/FondsArchive/CRLR_GR_MS2E17a/CRLR_GR_MS2E17a_5r_8.tif"/>
+        <p0112-roud-oeuvres:hasSeqnum knoraType="int_value">8</p0112-roud-oeuvres:hasSeqnum>
+        <p0112-roud-oeuvres:pageHasName knoraType="richtext_value">f. 5r</p0112-roud-oeuvres:pageHasName>
+        <p0112-roud-oeuvres:pageIsPartOfManuscript>
+            <p0112-roud-oeuvres:Manuscript knoraType="link_value" linkType="iri" target="http://rdfh.ch/0112/roud-oeuvres/7Atpj05lRxaVcjPImctysw"/>
+        </p0112-roud-oeuvres:pageIsPartOfManuscript>
+    </p0112-roud-oeuvres:Page>
+    <p0112-roud-oeuvres:Page id="CRLR_GR_MS2E17a_2r_3.tif" xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0112-roud-oeuvres="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#">
+        <knoraXmlImport:label>page_CRLR GR MS 2 E/17a___f. 2r___3</knoraXmlImport:label>
+        <knoraXmlImport:file mimetype="image/tiff" path="/run/scanlettMounted/GustaveRoud/E_Scan/Scans_complets/FondsArchive/CRLR_GR_MS2E17a/CRLR_GR_MS2E17a_2r_3.tif"/>
+        <p0112-roud-oeuvres:hasSeqnum knoraType="int_value">3</p0112-roud-oeuvres:hasSeqnum>
+        <p0112-roud-oeuvres:pageHasName knoraType="richtext_value">f. 2r</p0112-roud-oeuvres:pageHasName>
+        <p0112-roud-oeuvres:pageIsPartOfManuscript>
+            <p0112-roud-oeuvres:Manuscript knoraType="link_value" linkType="iri" target="http://rdfh.ch/0112/roud-oeuvres/7Atpj05lRxaVcjPImctysw"/>
+        </p0112-roud-oeuvres:pageIsPartOfManuscript>
+    </p0112-roud-oeuvres:Page>
+    <p0112-roud-oeuvres:Page id="CRLR_GR_MS2E17a_4r_7.tif" xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0112-roud-oeuvres="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#">
+        <knoraXmlImport:label>page_CRLR GR MS 2 E/17a___f. 4r___7</knoraXmlImport:label>
+        <knoraXmlImport:file mimetype="image/tiff" path="/run/scanlettMounted/GustaveRoud/E_Scan/Scans_complets/FondsArchive/CRLR_GR_MS2E17a/CRLR_GR_MS2E17a_4r_7.tif"/>
+        <p0112-roud-oeuvres:hasSeqnum knoraType="int_value">7</p0112-roud-oeuvres:hasSeqnum>
+        <p0112-roud-oeuvres:pageHasName knoraType="richtext_value">f. 4r</p0112-roud-oeuvres:pageHasName>
+        <p0112-roud-oeuvres:pageIsPartOfManuscript>
+            <p0112-roud-oeuvres:Manuscript knoraType="link_value" linkType="iri" target="http://rdfh.ch/0112/roud-oeuvres/7Atpj05lRxaVcjPImctysw"/>
+        </p0112-roud-oeuvres:pageIsPartOfManuscript>
+    </p0112-roud-oeuvres:Page>
+    <p0112-roud-oeuvres:Page id="CRLR_GR_MS2E17a_1r_1.tif" xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0112-roud-oeuvres="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#">
+        <knoraXmlImport:label>page_CRLR GR MS 2 E/17a___f. 1r___1</knoraXmlImport:label>
+        <knoraXmlImport:file mimetype="image/tiff" path="/run/scanlettMounted/GustaveRoud/E_Scan/Scans_complets/FondsArchive/CRLR_GR_MS2E17a/CRLR_GR_MS2E17a_1r_1.tif"/>
+        <p0112-roud-oeuvres:hasSeqnum knoraType="int_value">1</p0112-roud-oeuvres:hasSeqnum>
+        <p0112-roud-oeuvres:pageHasName knoraType="richtext_value">f. 1r</p0112-roud-oeuvres:pageHasName>
+        <p0112-roud-oeuvres:pageIsPartOfManuscript>
+            <p0112-roud-oeuvres:Manuscript knoraType="link_value" linkType="iri" target="http://rdfh.ch/0112/roud-oeuvres/7Atpj05lRxaVcjPImctysw"/>
+        </p0112-roud-oeuvres:pageIsPartOfManuscript>
+    </p0112-roud-oeuvres:Page>
+    <p0112-roud-oeuvres:Page id="CRLR_GR_MS2E17a_1v_2.tif" xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0112-roud-oeuvres="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#">
+        <knoraXmlImport:label>page_CRLR GR MS 2 E/17a___f. 1v___2</knoraXmlImport:label>
+        <knoraXmlImport:file mimetype="image/tiff" path="/run/scanlettMounted/GustaveRoud/E_Scan/Scans_complets/FondsArchive/CRLR_GR_MS2E17a/CRLR_GR_MS2E17a_1v_2.tif"/>
+        <p0112-roud-oeuvres:hasSeqnum knoraType="int_value">2</p0112-roud-oeuvres:hasSeqnum>
+        <p0112-roud-oeuvres:pageHasName knoraType="richtext_value">f. 1v</p0112-roud-oeuvres:pageHasName>
+        <p0112-roud-oeuvres:pageIsPartOfManuscript>
+            <p0112-roud-oeuvres:Manuscript knoraType="link_value" linkType="iri" target="http://rdfh.ch/0112/roud-oeuvres/7Atpj05lRxaVcjPImctysw"/>
+        </p0112-roud-oeuvres:pageIsPartOfManuscript>
+    </p0112-roud-oeuvres:Page>
+    <p0112-roud-oeuvres:Page id="CRLR_GR_MS2E17a_6r_9.tif" xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0112-roud-oeuvres="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#">
+        <knoraXmlImport:label>page_CRLR GR MS 2 E/17a___f. 6r___9</knoraXmlImport:label>
+        <knoraXmlImport:file mimetype="image/tiff" path="/run/scanlettMounted/GustaveRoud/E_Scan/Scans_complets/FondsArchive/CRLR_GR_MS2E17a/CRLR_GR_MS2E17a_6r_9.tif"/>
+        <p0112-roud-oeuvres:hasSeqnum knoraType="int_value">9</p0112-roud-oeuvres:hasSeqnum>
+        <p0112-roud-oeuvres:pageHasName knoraType="richtext_value">f. 6r</p0112-roud-oeuvres:pageHasName>
+        <p0112-roud-oeuvres:pageIsPartOfManuscript>
+            <p0112-roud-oeuvres:Manuscript knoraType="link_value" linkType="iri" target="http://rdfh.ch/0112/roud-oeuvres/7Atpj05lRxaVcjPImctysw"/>
+        </p0112-roud-oeuvres:pageIsPartOfManuscript>
+    </p0112-roud-oeuvres:Page>
+    <p0112-roud-oeuvres:Page id="CRLR_GR_MS2E17a_3v_6.tif" xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0112-roud-oeuvres="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#">
+        <knoraXmlImport:label>page_CRLR GR MS 2 E/17a___f. 3v___6</knoraXmlImport:label>
+        <knoraXmlImport:file mimetype="image/tiff" path="/run/scanlettMounted/GustaveRoud/E_Scan/Scans_complets/FondsArchive/CRLR_GR_MS2E17a/CRLR_GR_MS2E17a_3v_6.tif"/>
+        <p0112-roud-oeuvres:hasSeqnum knoraType="int_value">6</p0112-roud-oeuvres:hasSeqnum>
+        <p0112-roud-oeuvres:pageHasName knoraType="richtext_value">f. 3v</p0112-roud-oeuvres:pageHasName>
+        <p0112-roud-oeuvres:pageIsPartOfManuscript>
+            <p0112-roud-oeuvres:Manuscript knoraType="link_value" linkType="iri" target="http://rdfh.ch/0112/roud-oeuvres/7Atpj05lRxaVcjPImctysw"/>
+        </p0112-roud-oeuvres:pageIsPartOfManuscript>
+    </p0112-roud-oeuvres:Page>
+    <p0112-roud-oeuvres:Page id="CRLR_GR_MS2C5a_1r_1.tif" xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0112-roud-oeuvres="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#">
+        <knoraXmlImport:label>page_CRLR GR MS 2 C/5a___f. 1r___1</knoraXmlImport:label>
+        <knoraXmlImport:file mimetype="image/tiff" path="/run/scanlettMounted/GustaveRoud/E_Scan/Scans_complets/FondsArchive/CRLR_GR_MS2C5a/CRLR_GR_MS2C5a_1r_1.tif"/>
+        <p0112-roud-oeuvres:hasSeqnum knoraType="int_value">1</p0112-roud-oeuvres:hasSeqnum>
+        <p0112-roud-oeuvres:pageHasName knoraType="richtext_value">f. 1r</p0112-roud-oeuvres:pageHasName>
+        <p0112-roud-oeuvres:pageIsPartOfManuscript>
+            <p0112-roud-oeuvres:Manuscript knoraType="link_value" linkType="iri" target="http://rdfh.ch/0112/roud-oeuvres/qRYvzvomSVC6RV9LmcdaHw"/>
+        </p0112-roud-oeuvres:pageIsPartOfManuscript>
+    </p0112-roud-oeuvres:Page>
+    <p0112-roud-oeuvres:Page id="CRLR_GR_MS2C5a_1v_2.tif" xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0112-roud-oeuvres="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#">
+        <knoraXmlImport:label>page_CRLR GR MS 2 C/5a___f. 1v___2</knoraXmlImport:label>
+        <knoraXmlImport:file mimetype="image/tiff" path="/run/scanlettMounted/GustaveRoud/E_Scan/Scans_complets/FondsArchive/CRLR_GR_MS2C5a/CRLR_GR_MS2C5a_1v_2.tif"/>
+        <p0112-roud-oeuvres:hasSeqnum knoraType="int_value">2</p0112-roud-oeuvres:hasSeqnum>
+        <p0112-roud-oeuvres:pageHasName knoraType="richtext_value">f. 1v</p0112-roud-oeuvres:pageHasName>
+        <p0112-roud-oeuvres:pageIsPartOfManuscript>
+            <p0112-roud-oeuvres:Manuscript knoraType="link_value" linkType="iri" target="http://rdfh.ch/0112/roud-oeuvres/qRYvzvomSVC6RV9LmcdaHw"/>
+        </p0112-roud-oeuvres:pageIsPartOfManuscript>
+    </p0112-roud-oeuvres:Page>
+    <p0112-roud-oeuvres:Page id="CRLR_GR_MS2C9b_3r_3.tif" xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0112-roud-oeuvres="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#">
+        <knoraXmlImport:label>page_CRLR GR MS 2 C/9b___f. 3r___3</knoraXmlImport:label>
+        <knoraXmlImport:file mimetype="image/tiff" path="/run/scanlettMounted/GustaveRoud/E_Scan/Scans_complets/FondsArchive/CRLR_GR_MS2C9b/CRLR_GR_MS2C9b_3r_3.tif"/>
+        <p0112-roud-oeuvres:hasSeqnum knoraType="int_value">3</p0112-roud-oeuvres:hasSeqnum>
+        <p0112-roud-oeuvres:pageHasName knoraType="richtext_value">f. 3r</p0112-roud-oeuvres:pageHasName>
+        <p0112-roud-oeuvres:pageIsPartOfManuscript>
+            <p0112-roud-oeuvres:Manuscript knoraType="link_value" linkType="iri" target="http://rdfh.ch/0112/roud-oeuvres/CBFEfWpnT1Gx5uOVOgZfWA"/>
+        </p0112-roud-oeuvres:pageIsPartOfManuscript>
+    </p0112-roud-oeuvres:Page>
+    <p0112-roud-oeuvres:Page id="CRLR_GR_MS2C9b_2r_2.tif" xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0112-roud-oeuvres="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#">
+        <knoraXmlImport:label>page_CRLR GR MS 2 C/9b___f. 2r___2</knoraXmlImport:label>
+        <knoraXmlImport:file mimetype="image/tiff" path="/run/scanlettMounted/GustaveRoud/E_Scan/Scans_complets/FondsArchive/CRLR_GR_MS2C9b/CRLR_GR_MS2C9b_2r_2.tif"/>
+        <p0112-roud-oeuvres:hasSeqnum knoraType="int_value">2</p0112-roud-oeuvres:hasSeqnum>
+        <p0112-roud-oeuvres:pageHasName knoraType="richtext_value">f. 2r</p0112-roud-oeuvres:pageHasName>
+        <p0112-roud-oeuvres:pageIsPartOfManuscript>
+            <p0112-roud-oeuvres:Manuscript knoraType="link_value" linkType="iri" target="http://rdfh.ch/0112/roud-oeuvres/CBFEfWpnT1Gx5uOVOgZfWA"/>
+        </p0112-roud-oeuvres:pageIsPartOfManuscript>
+    </p0112-roud-oeuvres:Page>
+    <p0112-roud-oeuvres:Page id="CRLR_GR_MS2C9b_3v_4.tif" xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0112-roud-oeuvres="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#">
+        <knoraXmlImport:label>page_CRLR GR MS 2 C/9b___f. 3v___4</knoraXmlImport:label>
+        <knoraXmlImport:file mimetype="image/tiff" path="/run/scanlettMounted/GustaveRoud/E_Scan/Scans_complets/FondsArchive/CRLR_GR_MS2C9b/CRLR_GR_MS2C9b_3v_4.tif"/>
+        <p0112-roud-oeuvres:hasSeqnum knoraType="int_value">4</p0112-roud-oeuvres:hasSeqnum>
+        <p0112-roud-oeuvres:pageHasName knoraType="richtext_value">f. 3v</p0112-roud-oeuvres:pageHasName>
+        <p0112-roud-oeuvres:pageIsPartOfManuscript>
+            <p0112-roud-oeuvres:Manuscript knoraType="link_value" linkType="iri" target="http://rdfh.ch/0112/roud-oeuvres/CBFEfWpnT1Gx5uOVOgZfWA"/>
+        </p0112-roud-oeuvres:pageIsPartOfManuscript>
+    </p0112-roud-oeuvres:Page>
+    <p0112-roud-oeuvres:Page id="CRLR_GR_MS2C9b_1r_1.tif" xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0112-roud-oeuvres="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#">
+        <knoraXmlImport:label>page_CRLR GR MS 2 C/9b___f. 1r___1</knoraXmlImport:label>
+        <knoraXmlImport:file mimetype="image/tiff" path="/run/scanlettMounted/GustaveRoud/E_Scan/Scans_complets/FondsArchive/CRLR_GR_MS2C9b/CRLR_GR_MS2C9b_1r_1.tif"/>
+        <p0112-roud-oeuvres:hasSeqnum knoraType="int_value">1</p0112-roud-oeuvres:hasSeqnum>
+        <p0112-roud-oeuvres:pageHasName knoraType="richtext_value">f. 1r</p0112-roud-oeuvres:pageHasName>
+        <p0112-roud-oeuvres:pageIsPartOfManuscript>
+            <p0112-roud-oeuvres:Manuscript knoraType="link_value" linkType="iri" target="http://rdfh.ch/0112/roud-oeuvres/CBFEfWpnT1Gx5uOVOgZfWA"/>
+        </p0112-roud-oeuvres:pageIsPartOfManuscript>
+    </p0112-roud-oeuvres:Page>
+    <p0112-roud-oeuvres:Page id="CRLR_GR_MS2C6a_3r_3.tif" xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0112-roud-oeuvres="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#">
+        <knoraXmlImport:label>page_CRLR GR MS 2 C/6a___f. 3r___3</knoraXmlImport:label>
+        <knoraXmlImport:file mimetype="image/tiff" path="/run/scanlettMounted/GustaveRoud/E_Scan/Scans_complets/FondsArchive/CRLR_GR_MS2C6a/CRLR_GR_MS2C6a_3r_3.tif"/>
+        <p0112-roud-oeuvres:hasSeqnum knoraType="int_value">3</p0112-roud-oeuvres:hasSeqnum>
+        <p0112-roud-oeuvres:pageHasName knoraType="richtext_value">f. 3r</p0112-roud-oeuvres:pageHasName>
+        <p0112-roud-oeuvres:pageIsPartOfManuscript>
+            <p0112-roud-oeuvres:Manuscript knoraType="link_value" linkType="iri" target="http://rdfh.ch/0112/roud-oeuvres/1hTCnDhoQJmVZKMboyqqSg"/>
+        </p0112-roud-oeuvres:pageIsPartOfManuscript>
+    </p0112-roud-oeuvres:Page>
+    <p0112-roud-oeuvres:Page id="CRLR_GR_MS2C6a_2r_2.tif" xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0112-roud-oeuvres="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#">
+        <knoraXmlImport:label>page_CRLR GR MS 2 C/6a___f. 2r___2</knoraXmlImport:label>
+        <knoraXmlImport:file mimetype="image/tiff" path="/run/scanlettMounted/GustaveRoud/E_Scan/Scans_complets/FondsArchive/CRLR_GR_MS2C6a/CRLR_GR_MS2C6a_2r_2.tif"/>
+        <p0112-roud-oeuvres:hasSeqnum knoraType="int_value">2</p0112-roud-oeuvres:hasSeqnum>
+        <p0112-roud-oeuvres:pageHasName knoraType="richtext_value">f. 2r</p0112-roud-oeuvres:pageHasName>
+        <p0112-roud-oeuvres:pageIsPartOfManuscript>
+            <p0112-roud-oeuvres:Manuscript knoraType="link_value" linkType="iri" target="http://rdfh.ch/0112/roud-oeuvres/1hTCnDhoQJmVZKMboyqqSg"/>
+        </p0112-roud-oeuvres:pageIsPartOfManuscript>
+    </p0112-roud-oeuvres:Page>
+    <p0112-roud-oeuvres:Page id="CRLR_GR_MS2C6a_1r_1.tif" xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0112-roud-oeuvres="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#">
+        <knoraXmlImport:label>page_CRLR GR MS 2 C/6a___f. 1r___1</knoraXmlImport:label>
+        <knoraXmlImport:file mimetype="image/tiff" path="/run/scanlettMounted/GustaveRoud/E_Scan/Scans_complets/FondsArchive/CRLR_GR_MS2C6a/CRLR_GR_MS2C6a_1r_1.tif"/>
+        <p0112-roud-oeuvres:hasSeqnum knoraType="int_value">1</p0112-roud-oeuvres:hasSeqnum>
+        <p0112-roud-oeuvres:pageHasName knoraType="richtext_value">f. 1r</p0112-roud-oeuvres:pageHasName>
+        <p0112-roud-oeuvres:pageIsPartOfManuscript>
+            <p0112-roud-oeuvres:Manuscript knoraType="link_value" linkType="iri" target="http://rdfh.ch/0112/roud-oeuvres/1hTCnDhoQJmVZKMboyqqSg"/>
+        </p0112-roud-oeuvres:pageIsPartOfManuscript>
+    </p0112-roud-oeuvres:Page>
+    <p0112-roud-oeuvres:Page id="CRLR_GR_MS2F5t_1v_2.tif" xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0112-roud-oeuvres="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#">
+        <knoraXmlImport:label>page_CRLR GR MS 2 F/5t___f. 1v___2</knoraXmlImport:label>
+        <knoraXmlImport:file mimetype="image/tiff" path="/run/scanlettMounted/GustaveRoud/E_Scan/Scans_complets/FondsArchive/CRLR_GR_MS2F5t/CRLR_GR_MS2F5t_1v_2.tif"/>
+        <p0112-roud-oeuvres:hasSeqnum knoraType="int_value">2</p0112-roud-oeuvres:hasSeqnum>
+        <p0112-roud-oeuvres:pageHasName knoraType="richtext_value">f. 1v</p0112-roud-oeuvres:pageHasName>
+        <p0112-roud-oeuvres:pageIsPartOfManuscript>
+            <p0112-roud-oeuvres:Manuscript knoraType="link_value" linkType="iri" target="http://rdfh.ch/0112/roud-oeuvres/T-5y24FOQI2iUTkcY3GesA"/>
+        </p0112-roud-oeuvres:pageIsPartOfManuscript>
+    </p0112-roud-oeuvres:Page>
+    <p0112-roud-oeuvres:Page id="CRLR_GR_MS2F5t_1r_1.tif" xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0112-roud-oeuvres="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#">
+        <knoraXmlImport:label>page_CRLR GR MS 2 F/5t___f. 1r___1</knoraXmlImport:label>
+        <knoraXmlImport:file mimetype="image/tiff" path="/run/scanlettMounted/GustaveRoud/E_Scan/Scans_complets/FondsArchive/CRLR_GR_MS2F5t/CRLR_GR_MS2F5t_1r_1.tif"/>
+        <p0112-roud-oeuvres:hasSeqnum knoraType="int_value">1</p0112-roud-oeuvres:hasSeqnum>
+        <p0112-roud-oeuvres:pageHasName knoraType="richtext_value">f. 1r</p0112-roud-oeuvres:pageHasName>
+        <p0112-roud-oeuvres:pageIsPartOfManuscript>
+            <p0112-roud-oeuvres:Manuscript knoraType="link_value" linkType="iri" target="http://rdfh.ch/0112/roud-oeuvres/T-5y24FOQI2iUTkcY3GesA"/>
+        </p0112-roud-oeuvres:pageIsPartOfManuscript>
+    </p0112-roud-oeuvres:Page>
+    <p0112-roud-oeuvres:Page id="CRLR_GR_MS2D11a_3r_3.tif" xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0112-roud-oeuvres="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#">
+        <knoraXmlImport:label>page_CRLR GR MS 2 D/11a___f. 3r___3</knoraXmlImport:label>
+        <knoraXmlImport:file mimetype="image/tiff" path="/run/scanlettMounted/GustaveRoud/E_Scan/Scans_complets/FondsArchive/CRLR_GR_MS2D11a/CRLR_GR_MS2D11a_3r_3.tif"/>
+        <p0112-roud-oeuvres:hasSeqnum knoraType="int_value">3</p0112-roud-oeuvres:hasSeqnum>
+        <p0112-roud-oeuvres:pageHasName knoraType="richtext_value">f. 3r</p0112-roud-oeuvres:pageHasName>
+        <p0112-roud-oeuvres:pageIsPartOfManuscript>
+            <p0112-roud-oeuvres:Manuscript knoraType="link_value" linkType="iri" target="http://rdfh.ch/0112/roud-oeuvres/u2n1UqTsR4Gw55YinsG73Q"/>
+        </p0112-roud-oeuvres:pageIsPartOfManuscript>
+    </p0112-roud-oeuvres:Page>
+    <p0112-roud-oeuvres:Page id="CRLR_GR_MS2D11a_3v_4.tif" xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0112-roud-oeuvres="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#">
+        <knoraXmlImport:label>page_CRLR GR MS 2 D/11a___f. 3v___4</knoraXmlImport:label>
+        <knoraXmlImport:file mimetype="image/tiff" path="/run/scanlettMounted/GustaveRoud/E_Scan/Scans_complets/FondsArchive/CRLR_GR_MS2D11a/CRLR_GR_MS2D11a_3v_4.tif"/>
+        <p0112-roud-oeuvres:hasSeqnum knoraType="int_value">4</p0112-roud-oeuvres:hasSeqnum>
+        <p0112-roud-oeuvres:pageHasName knoraType="richtext_value">f. 3v</p0112-roud-oeuvres:pageHasName>
+        <p0112-roud-oeuvres:pageIsPartOfManuscript>
+            <p0112-roud-oeuvres:Manuscript knoraType="link_value" linkType="iri" target="http://rdfh.ch/0112/roud-oeuvres/u2n1UqTsR4Gw55YinsG73Q"/>
+        </p0112-roud-oeuvres:pageIsPartOfManuscript>
+    </p0112-roud-oeuvres:Page>
+    <p0112-roud-oeuvres:Page id="CRLR_GR_MS2D11a_2r_2.tif" xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0112-roud-oeuvres="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#">
+        <knoraXmlImport:label>page_CRLR GR MS 2 D/11a___f. 2r___2</knoraXmlImport:label>
+        <knoraXmlImport:file mimetype="image/tiff" path="/run/scanlettMounted/GustaveRoud/E_Scan/Scans_complets/FondsArchive/CRLR_GR_MS2D11a/CRLR_GR_MS2D11a_2r_2.tif"/>
+        <p0112-roud-oeuvres:hasSeqnum knoraType="int_value">2</p0112-roud-oeuvres:hasSeqnum>
+        <p0112-roud-oeuvres:pageHasName knoraType="richtext_value">f. 2r</p0112-roud-oeuvres:pageHasName>
+        <p0112-roud-oeuvres:pageIsPartOfManuscript>
+            <p0112-roud-oeuvres:Manuscript knoraType="link_value" linkType="iri" target="http://rdfh.ch/0112/roud-oeuvres/u2n1UqTsR4Gw55YinsG73Q"/>
+        </p0112-roud-oeuvres:pageIsPartOfManuscript>
+    </p0112-roud-oeuvres:Page>
+    <p0112-roud-oeuvres:Page id="CRLR_GR_MS2D11a_1r_1.tif" xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0112-roud-oeuvres="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#">
+        <knoraXmlImport:label>page_CRLR GR MS 2 D/11a___f. 1r___1</knoraXmlImport:label>
+        <knoraXmlImport:file mimetype="image/tiff" path="/run/scanlettMounted/GustaveRoud/E_Scan/Scans_complets/FondsArchive/CRLR_GR_MS2D11a/CRLR_GR_MS2D11a_1r_1.tif"/>
+        <p0112-roud-oeuvres:hasSeqnum knoraType="int_value">1</p0112-roud-oeuvres:hasSeqnum>
+        <p0112-roud-oeuvres:pageHasName knoraType="richtext_value">f. 1r</p0112-roud-oeuvres:pageHasName>
+        <p0112-roud-oeuvres:pageIsPartOfManuscript>
+            <p0112-roud-oeuvres:Manuscript knoraType="link_value" linkType="iri" target="http://rdfh.ch/0112/roud-oeuvres/u2n1UqTsR4Gw55YinsG73Q"/>
+        </p0112-roud-oeuvres:pageIsPartOfManuscript>
+    </p0112-roud-oeuvres:Page>
+    <p0112-roud-oeuvres:Page id="CRLR_GR_MS2E15a_3r_3.tif" xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0112-roud-oeuvres="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#">
+        <knoraXmlImport:label>page_CRLR GR MS 2 E/15a___f. 3r___3</knoraXmlImport:label>
+        <knoraXmlImport:file mimetype="image/tiff" path="/run/scanlettMounted/GustaveRoud/E_Scan/Scans_complets/FondsArchive/CRLR_GR_MS2E15a/CRLR_GR_MS2E15a_3r_3.tif"/>
+        <p0112-roud-oeuvres:hasSeqnum knoraType="int_value">3</p0112-roud-oeuvres:hasSeqnum>
+        <p0112-roud-oeuvres:pageHasName knoraType="richtext_value">f. 3r</p0112-roud-oeuvres:pageHasName>
+        <p0112-roud-oeuvres:pageIsPartOfManuscript>
+            <p0112-roud-oeuvres:Manuscript knoraType="link_value" linkType="iri" target="http://rdfh.ch/0112/roud-oeuvres/BevGYFRsSHqfWZ099KEzZg"/>
+        </p0112-roud-oeuvres:pageIsPartOfManuscript>
+    </p0112-roud-oeuvres:Page>
+    <p0112-roud-oeuvres:Page id="CRLR_GR_MS2E15a_4r_4.tif" xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0112-roud-oeuvres="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#">
+        <knoraXmlImport:label>page_CRLR GR MS 2 E/15a___f. 4r___4</knoraXmlImport:label>
+        <knoraXmlImport:file mimetype="image/tiff" path="/run/scanlettMounted/GustaveRoud/E_Scan/Scans_complets/FondsArchive/CRLR_GR_MS2E15a/CRLR_GR_MS2E15a_4r_4.tif"/>
+        <p0112-roud-oeuvres:hasSeqnum knoraType="int_value">4</p0112-roud-oeuvres:hasSeqnum>
+        <p0112-roud-oeuvres:pageHasName knoraType="richtext_value">f. 4r</p0112-roud-oeuvres:pageHasName>
+        <p0112-roud-oeuvres:pageIsPartOfManuscript>
+            <p0112-roud-oeuvres:Manuscript knoraType="link_value" linkType="iri" target="http://rdfh.ch/0112/roud-oeuvres/BevGYFRsSHqfWZ099KEzZg"/>
+        </p0112-roud-oeuvres:pageIsPartOfManuscript>
+    </p0112-roud-oeuvres:Page>
+    <p0112-roud-oeuvres:Page id="CRLR_GR_MS2E15a_1r_1.tif" xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0112-roud-oeuvres="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#">
+        <knoraXmlImport:label>page_CRLR GR MS 2 E/15a___f. 1r___1</knoraXmlImport:label>
+        <knoraXmlImport:file mimetype="image/tiff" path="/run/scanlettMounted/GustaveRoud/E_Scan/Scans_complets/FondsArchive/CRLR_GR_MS2E15a/CRLR_GR_MS2E15a_1r_1.tif"/>
+        <p0112-roud-oeuvres:hasSeqnum knoraType="int_value">1</p0112-roud-oeuvres:hasSeqnum>
+        <p0112-roud-oeuvres:pageHasName knoraType="richtext_value">f. 1r</p0112-roud-oeuvres:pageHasName>
+        <p0112-roud-oeuvres:pageIsPartOfManuscript>
+            <p0112-roud-oeuvres:Manuscript knoraType="link_value" linkType="iri" target="http://rdfh.ch/0112/roud-oeuvres/BevGYFRsSHqfWZ099KEzZg"/>
+        </p0112-roud-oeuvres:pageIsPartOfManuscript>
+    </p0112-roud-oeuvres:Page>
+    <p0112-roud-oeuvres:Page id="CRLR_GR_MS2E15a_2r_2.tif" xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0112-roud-oeuvres="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#">
+        <knoraXmlImport:label>page_CRLR GR MS 2 E/15a___f. 2r___2</knoraXmlImport:label>
+        <knoraXmlImport:file mimetype="image/tiff" path="/run/scanlettMounted/GustaveRoud/E_Scan/Scans_complets/FondsArchive/CRLR_GR_MS2E15a/CRLR_GR_MS2E15a_2r_2.tif"/>
+        <p0112-roud-oeuvres:hasSeqnum knoraType="int_value">2</p0112-roud-oeuvres:hasSeqnum>
+        <p0112-roud-oeuvres:pageHasName knoraType="richtext_value">f. 2r</p0112-roud-oeuvres:pageHasName>
+        <p0112-roud-oeuvres:pageIsPartOfManuscript>
+            <p0112-roud-oeuvres:Manuscript knoraType="link_value" linkType="iri" target="http://rdfh.ch/0112/roud-oeuvres/BevGYFRsSHqfWZ099KEzZg"/>
+        </p0112-roud-oeuvres:pageIsPartOfManuscript>
+    </p0112-roud-oeuvres:Page>
+    <p0112-roud-oeuvres:Page id="CRLR_GR_MS3A5a_1r_1.tif" xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0112-roud-oeuvres="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#">
+        <knoraXmlImport:label>page_CRLR GR MS 3 A/5a___f. 1r___1</knoraXmlImport:label>
+        <knoraXmlImport:file mimetype="image/tiff" path="/run/scanlettMounted/GustaveRoud/E_Scan/Scans_complets/FondsArchive/CRLR_GR_MS3A5a/CRLR_GR_MS3A5a_1r_1.tif"/>
+        <p0112-roud-oeuvres:hasSeqnum knoraType="int_value">1</p0112-roud-oeuvres:hasSeqnum>
+        <p0112-roud-oeuvres:pageHasName knoraType="richtext_value">f. 1r</p0112-roud-oeuvres:pageHasName>
+        <p0112-roud-oeuvres:pageIsPartOfManuscript>
+            <p0112-roud-oeuvres:Manuscript knoraType="link_value" linkType="iri" target="http://rdfh.ch/0112/roud-oeuvres/gi7NnsUIReiV0ha_Lxw2Cg"/>
+        </p0112-roud-oeuvres:pageIsPartOfManuscript>
+    </p0112-roud-oeuvres:Page>
+    <p0112-roud-oeuvres:Page id="CRLR_GR_MS3A5a_1v_2.tif" xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0112-roud-oeuvres="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#">
+        <knoraXmlImport:label>page_CRLR GR MS 3 A/5a___f. 1v___2</knoraXmlImport:label>
+        <knoraXmlImport:file mimetype="image/tiff" path="/run/scanlettMounted/GustaveRoud/E_Scan/Scans_complets/FondsArchive/CRLR_GR_MS3A5a/CRLR_GR_MS3A5a_1v_2.tif"/>
+        <p0112-roud-oeuvres:hasSeqnum knoraType="int_value">2</p0112-roud-oeuvres:hasSeqnum>
+        <p0112-roud-oeuvres:pageHasName knoraType="richtext_value">f. 1v</p0112-roud-oeuvres:pageHasName>
+        <p0112-roud-oeuvres:pageIsPartOfManuscript>
+            <p0112-roud-oeuvres:Manuscript knoraType="link_value" linkType="iri" target="http://rdfh.ch/0112/roud-oeuvres/gi7NnsUIReiV0ha_Lxw2Cg"/>
+        </p0112-roud-oeuvres:pageIsPartOfManuscript>
+    </p0112-roud-oeuvres:Page>
+    <p0112-roud-oeuvres:Page id="CRLR_GR_MS2F7b_5v_10.tif" xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0112-roud-oeuvres="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#">
+        <knoraXmlImport:label>page_CRLR GR MS 2 F/7b___f. 5v___10</knoraXmlImport:label>
+        <knoraXmlImport:file mimetype="image/tiff" path="/run/scanlettMounted/GustaveRoud/E_Scan/Scans_complets/FondsArchive/CRLR_GR_MS2F7b/CRLR_GR_MS2F7b_5v_10.tif"/>
+        <p0112-roud-oeuvres:hasSeqnum knoraType="int_value">10</p0112-roud-oeuvres:hasSeqnum>
+        <p0112-roud-oeuvres:pageHasName knoraType="richtext_value">f. 5v</p0112-roud-oeuvres:pageHasName>
+        <p0112-roud-oeuvres:pageIsPartOfManuscript>
+            <p0112-roud-oeuvres:Manuscript knoraType="link_value" linkType="iri" target="http://rdfh.ch/0112/roud-oeuvres/I7S7UfTySYCSil_QrcS3hQ"/>
+        </p0112-roud-oeuvres:pageIsPartOfManuscript>
+    </p0112-roud-oeuvres:Page>
+    <p0112-roud-oeuvres:Page id="CRLR_GR_MS2F7b_6r_11.tif" xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0112-roud-oeuvres="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#">
+        <knoraXmlImport:label>page_CRLR GR MS 2 F/7b___f. 6r___11</knoraXmlImport:label>
+        <knoraXmlImport:file mimetype="image/tiff" path="/run/scanlettMounted/GustaveRoud/E_Scan/Scans_complets/FondsArchive/CRLR_GR_MS2F7b/CRLR_GR_MS2F7b_6r_11.tif"/>
+        <p0112-roud-oeuvres:hasSeqnum knoraType="int_value">11</p0112-roud-oeuvres:hasSeqnum>
+        <p0112-roud-oeuvres:pageHasName knoraType="richtext_value">f. 6r</p0112-roud-oeuvres:pageHasName>
+        <p0112-roud-oeuvres:pageIsPartOfManuscript>
+            <p0112-roud-oeuvres:Manuscript knoraType="link_value" linkType="iri" target="http://rdfh.ch/0112/roud-oeuvres/I7S7UfTySYCSil_QrcS3hQ"/>
+        </p0112-roud-oeuvres:pageIsPartOfManuscript>
+    </p0112-roud-oeuvres:Page>
+    <p0112-roud-oeuvres:Page id="CRLR_GR_MS2F7b_1r_1.tif" xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0112-roud-oeuvres="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#">
+        <knoraXmlImport:label>page_CRLR GR MS 2 F/7b___f. 1r___1</knoraXmlImport:label>
+        <knoraXmlImport:file mimetype="image/tiff" path="/run/scanlettMounted/GustaveRoud/E_Scan/Scans_complets/FondsArchive/CRLR_GR_MS2F7b/CRLR_GR_MS2F7b_1r_1.tif"/>
+        <p0112-roud-oeuvres:hasSeqnum knoraType="int_value">1</p0112-roud-oeuvres:hasSeqnum>
+        <p0112-roud-oeuvres:pageHasName knoraType="richtext_value">f. 1r</p0112-roud-oeuvres:pageHasName>
+        <p0112-roud-oeuvres:pageIsPartOfManuscript>
+            <p0112-roud-oeuvres:Manuscript knoraType="link_value" linkType="iri" target="http://rdfh.ch/0112/roud-oeuvres/I7S7UfTySYCSil_QrcS3hQ"/>
+        </p0112-roud-oeuvres:pageIsPartOfManuscript>
+    </p0112-roud-oeuvres:Page>
+    <p0112-roud-oeuvres:Page id="CRLR_GR_MS2F7b_4r_7.tif" xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0112-roud-oeuvres="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#">
+        <knoraXmlImport:label>page_CRLR GR MS 2 F/7b___f. 4r___7</knoraXmlImport:label>
+        <knoraXmlImport:file mimetype="image/tiff" path="/run/scanlettMounted/GustaveRoud/E_Scan/Scans_complets/FondsArchive/CRLR_GR_MS2F7b/CRLR_GR_MS2F7b_4r_7.tif"/>
+        <p0112-roud-oeuvres:hasSeqnum knoraType="int_value">7</p0112-roud-oeuvres:hasSeqnum>
+        <p0112-roud-oeuvres:pageHasName knoraType="richtext_value">f. 4r</p0112-roud-oeuvres:pageHasName>
+        <p0112-roud-oeuvres:pageIsPartOfManuscript>
+            <p0112-roud-oeuvres:Manuscript knoraType="link_value" linkType="iri" target="http://rdfh.ch/0112/roud-oeuvres/I7S7UfTySYCSil_QrcS3hQ"/>
+        </p0112-roud-oeuvres:pageIsPartOfManuscript>
+    </p0112-roud-oeuvres:Page>
+    <p0112-roud-oeuvres:Page id="CRLR_GR_MS2F7b_6v_12.tif" xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0112-roud-oeuvres="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#">
+        <knoraXmlImport:label>page_CRLR GR MS 2 F/7b___f. 6v___12</knoraXmlImport:label>
+        <knoraXmlImport:file mimetype="image/tiff" path="/run/scanlettMounted/GustaveRoud/E_Scan/Scans_complets/FondsArchive/CRLR_GR_MS2F7b/CRLR_GR_MS2F7b_6v_12.tif"/>
+        <p0112-roud-oeuvres:hasSeqnum knoraType="int_value">12</p0112-roud-oeuvres:hasSeqnum>
+        <p0112-roud-oeuvres:pageHasName knoraType="richtext_value">f. 6v</p0112-roud-oeuvres:pageHasName>
+        <p0112-roud-oeuvres:pageIsPartOfManuscript>
+            <p0112-roud-oeuvres:Manuscript knoraType="link_value" linkType="iri" target="http://rdfh.ch/0112/roud-oeuvres/I7S7UfTySYCSil_QrcS3hQ"/>
+        </p0112-roud-oeuvres:pageIsPartOfManuscript>
+    </p0112-roud-oeuvres:Page>
+    <p0112-roud-oeuvres:Page id="CRLR_GR_MS2F7b_3v_6.tif" xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0112-roud-oeuvres="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#">
+        <knoraXmlImport:label>page_CRLR GR MS 2 F/7b___f. 3v___6</knoraXmlImport:label>
+        <knoraXmlImport:file mimetype="image/tiff" path="/run/scanlettMounted/GustaveRoud/E_Scan/Scans_complets/FondsArchive/CRLR_GR_MS2F7b/CRLR_GR_MS2F7b_3v_6.tif"/>
+        <p0112-roud-oeuvres:hasSeqnum knoraType="int_value">6</p0112-roud-oeuvres:hasSeqnum>
+        <p0112-roud-oeuvres:pageHasName knoraType="richtext_value">f. 3v</p0112-roud-oeuvres:pageHasName>
+        <p0112-roud-oeuvres:pageIsPartOfManuscript>
+            <p0112-roud-oeuvres:Manuscript knoraType="link_value" linkType="iri" target="http://rdfh.ch/0112/roud-oeuvres/I7S7UfTySYCSil_QrcS3hQ"/>
+        </p0112-roud-oeuvres:pageIsPartOfManuscript>
+    </p0112-roud-oeuvres:Page>
+    <p0112-roud-oeuvres:Page id="CRLR_GR_MS2F7b_3r_5.tif" xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0112-roud-oeuvres="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#">
+        <knoraXmlImport:label>page_CRLR GR MS 2 F/7b___f. 3r___5</knoraXmlImport:label>
+        <knoraXmlImport:file mimetype="image/tiff" path="/run/scanlettMounted/GustaveRoud/E_Scan/Scans_complets/FondsArchive/CRLR_GR_MS2F7b/CRLR_GR_MS2F7b_3r_5.tif"/>
+        <p0112-roud-oeuvres:hasSeqnum knoraType="int_value">5</p0112-roud-oeuvres:hasSeqnum>
+        <p0112-roud-oeuvres:pageHasName knoraType="richtext_value">f. 3r</p0112-roud-oeuvres:pageHasName>
+        <p0112-roud-oeuvres:pageIsPartOfManuscript>
+            <p0112-roud-oeuvres:Manuscript knoraType="link_value" linkType="iri" target="http://rdfh.ch/0112/roud-oeuvres/I7S7UfTySYCSil_QrcS3hQ"/>
+        </p0112-roud-oeuvres:pageIsPartOfManuscript>
+    </p0112-roud-oeuvres:Page>
+    <p0112-roud-oeuvres:Page id="CRLR_GR_MS2F7b_1v_2.tif" xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0112-roud-oeuvres="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#">
+        <knoraXmlImport:label>page_CRLR GR MS 2 F/7b___f. 1v___2</knoraXmlImport:label>
+        <knoraXmlImport:file mimetype="image/tiff" path="/run/scanlettMounted/GustaveRoud/E_Scan/Scans_complets/FondsArchive/CRLR_GR_MS2F7b/CRLR_GR_MS2F7b_1v_2.tif"/>
+        <p0112-roud-oeuvres:hasSeqnum knoraType="int_value">2</p0112-roud-oeuvres:hasSeqnum>
+        <p0112-roud-oeuvres:pageHasName knoraType="richtext_value">f. 1v</p0112-roud-oeuvres:pageHasName>
+        <p0112-roud-oeuvres:pageIsPartOfManuscript>
+            <p0112-roud-oeuvres:Manuscript knoraType="link_value" linkType="iri" target="http://rdfh.ch/0112/roud-oeuvres/I7S7UfTySYCSil_QrcS3hQ"/>
+        </p0112-roud-oeuvres:pageIsPartOfManuscript>
+    </p0112-roud-oeuvres:Page>
+    <p0112-roud-oeuvres:Page id="CRLR_GR_MS2F7b_4v_8.tif" xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0112-roud-oeuvres="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#">
+        <knoraXmlImport:label>page_CRLR GR MS 2 F/7b___f. 4v___8</knoraXmlImport:label>
+        <knoraXmlImport:file mimetype="image/tiff" path="/run/scanlettMounted/GustaveRoud/E_Scan/Scans_complets/FondsArchive/CRLR_GR_MS2F7b/CRLR_GR_MS2F7b_4v_8.tif"/>
+        <p0112-roud-oeuvres:hasSeqnum knoraType="int_value">8</p0112-roud-oeuvres:hasSeqnum>
+        <p0112-roud-oeuvres:pageHasName knoraType="richtext_value">f. 4v</p0112-roud-oeuvres:pageHasName>
+        <p0112-roud-oeuvres:pageIsPartOfManuscript>
+            <p0112-roud-oeuvres:Manuscript knoraType="link_value" linkType="iri" target="http://rdfh.ch/0112/roud-oeuvres/I7S7UfTySYCSil_QrcS3hQ"/>
+        </p0112-roud-oeuvres:pageIsPartOfManuscript>
+    </p0112-roud-oeuvres:Page>
+    <p0112-roud-oeuvres:Page id="CRLR_GR_MS2F7b_2v_4.tif" xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0112-roud-oeuvres="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#">
+        <knoraXmlImport:label>page_CRLR GR MS 2 F/7b___f. 2v___4</knoraXmlImport:label>
+        <knoraXmlImport:file mimetype="image/tiff" path="/run/scanlettMounted/GustaveRoud/E_Scan/Scans_complets/FondsArchive/CRLR_GR_MS2F7b/CRLR_GR_MS2F7b_2v_4.tif"/>
+        <p0112-roud-oeuvres:hasSeqnum knoraType="int_value">4</p0112-roud-oeuvres:hasSeqnum>
+        <p0112-roud-oeuvres:pageHasName knoraType="richtext_value">f. 2v</p0112-roud-oeuvres:pageHasName>
+        <p0112-roud-oeuvres:pageIsPartOfManuscript>
+            <p0112-roud-oeuvres:Manuscript knoraType="link_value" linkType="iri" target="http://rdfh.ch/0112/roud-oeuvres/I7S7UfTySYCSil_QrcS3hQ"/>
+        </p0112-roud-oeuvres:pageIsPartOfManuscript>
+    </p0112-roud-oeuvres:Page>
+    <p0112-roud-oeuvres:Page id="CRLR_GR_MS2F7b_5r_9.tif" xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0112-roud-oeuvres="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#">
+        <knoraXmlImport:label>page_CRLR GR MS 2 F/7b___f. 5r___9</knoraXmlImport:label>
+        <knoraXmlImport:file mimetype="image/tiff" path="/run/scanlettMounted/GustaveRoud/E_Scan/Scans_complets/FondsArchive/CRLR_GR_MS2F7b/CRLR_GR_MS2F7b_5r_9.tif"/>
+        <p0112-roud-oeuvres:hasSeqnum knoraType="int_value">9</p0112-roud-oeuvres:hasSeqnum>
+        <p0112-roud-oeuvres:pageHasName knoraType="richtext_value">f. 5r</p0112-roud-oeuvres:pageHasName>
+        <p0112-roud-oeuvres:pageIsPartOfManuscript>
+            <p0112-roud-oeuvres:Manuscript knoraType="link_value" linkType="iri" target="http://rdfh.ch/0112/roud-oeuvres/I7S7UfTySYCSil_QrcS3hQ"/>
+        </p0112-roud-oeuvres:pageIsPartOfManuscript>
+    </p0112-roud-oeuvres:Page>
+    <p0112-roud-oeuvres:Page id="CRLR_GR_MS2F7b_7r_13.tif" xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0112-roud-oeuvres="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#">
+        <knoraXmlImport:label>page_CRLR GR MS 2 F/7b___f. 7r___13</knoraXmlImport:label>
+        <knoraXmlImport:file mimetype="image/tiff" path="/run/scanlettMounted/GustaveRoud/E_Scan/Scans_complets/FondsArchive/CRLR_GR_MS2F7b/CRLR_GR_MS2F7b_7r_13.tif"/>
+        <p0112-roud-oeuvres:hasSeqnum knoraType="int_value">13</p0112-roud-oeuvres:hasSeqnum>
+        <p0112-roud-oeuvres:pageHasName knoraType="richtext_value">f. 7r</p0112-roud-oeuvres:pageHasName>
+        <p0112-roud-oeuvres:pageIsPartOfManuscript>
+            <p0112-roud-oeuvres:Manuscript knoraType="link_value" linkType="iri" target="http://rdfh.ch/0112/roud-oeuvres/I7S7UfTySYCSil_QrcS3hQ"/>
+        </p0112-roud-oeuvres:pageIsPartOfManuscript>
+    </p0112-roud-oeuvres:Page>
+    <p0112-roud-oeuvres:Page id="CRLR_GR_MS2F7b_2r_2.tif" xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0112-roud-oeuvres="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#">
+        <knoraXmlImport:label>page_CRLR GR MS 2 F/7b___f. 2r___2</knoraXmlImport:label>
+        <knoraXmlImport:file mimetype="image/tiff" path="/run/scanlettMounted/GustaveRoud/E_Scan/Scans_complets/FondsArchive/CRLR_GR_MS2F7b/CRLR_GR_MS2F7b_2r_2.tif"/>
+        <p0112-roud-oeuvres:hasSeqnum knoraType="int_value">2</p0112-roud-oeuvres:hasSeqnum>
+        <p0112-roud-oeuvres:pageHasName knoraType="richtext_value">f. 2r</p0112-roud-oeuvres:pageHasName>
+        <p0112-roud-oeuvres:pageIsPartOfManuscript>
+            <p0112-roud-oeuvres:Manuscript knoraType="link_value" linkType="iri" target="http://rdfh.ch/0112/roud-oeuvres/I7S7UfTySYCSil_QrcS3hQ"/>
+        </p0112-roud-oeuvres:pageIsPartOfManuscript>
+    </p0112-roud-oeuvres:Page>
+    <p0112-roud-oeuvres:Page id="CRLR_GR_MS3A8a_6r_6.tif" xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0112-roud-oeuvres="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#">
+        <knoraXmlImport:label>page_CRLR GR MS 3 A/8a___f. 6r___6</knoraXmlImport:label>
+        <knoraXmlImport:file mimetype="image/tiff" path="/run/scanlettMounted/GustaveRoud/E_Scan/Scans_complets/FondsArchive/CRLR_GR_MS3A8a/CRLR_GR_MS3A8a_6r_6.tif"/>
+        <p0112-roud-oeuvres:hasSeqnum knoraType="int_value">6</p0112-roud-oeuvres:hasSeqnum>
+        <p0112-roud-oeuvres:pageHasName knoraType="richtext_value">f. 6r</p0112-roud-oeuvres:pageHasName>
+        <p0112-roud-oeuvres:pageIsPartOfManuscript>
+            <p0112-roud-oeuvres:Manuscript knoraType="link_value" linkType="iri" target="http://rdfh.ch/0112/roud-oeuvres/3DNZAf1hSl-SVm8AE3zsOA"/>
+        </p0112-roud-oeuvres:pageIsPartOfManuscript>
+    </p0112-roud-oeuvres:Page>
+    <p0112-roud-oeuvres:Page id="CRLR_GR_MS3A8a_4r_4.tif" xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0112-roud-oeuvres="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#">
+        <knoraXmlImport:label>page_CRLR GR MS 3 A/8a___f. 4r___4</knoraXmlImport:label>
+        <knoraXmlImport:file mimetype="image/tiff" path="/run/scanlettMounted/GustaveRoud/E_Scan/Scans_complets/FondsArchive/CRLR_GR_MS3A8a/CRLR_GR_MS3A8a_4r_4.tif"/>
+        <p0112-roud-oeuvres:hasSeqnum knoraType="int_value">4</p0112-roud-oeuvres:hasSeqnum>
+        <p0112-roud-oeuvres:pageHasName knoraType="richtext_value">f. 4r</p0112-roud-oeuvres:pageHasName>
+        <p0112-roud-oeuvres:pageIsPartOfManuscript>
+            <p0112-roud-oeuvres:Manuscript knoraType="link_value" linkType="iri" target="http://rdfh.ch/0112/roud-oeuvres/3DNZAf1hSl-SVm8AE3zsOA"/>
+        </p0112-roud-oeuvres:pageIsPartOfManuscript>
+    </p0112-roud-oeuvres:Page>
+    <p0112-roud-oeuvres:Page id="CRLR_GR_MS3A8a_5r_5.tif" xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0112-roud-oeuvres="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#">
+        <knoraXmlImport:label>page_CRLR GR MS 3 A/8a___f. 5r___5</knoraXmlImport:label>
+        <knoraXmlImport:file mimetype="image/tiff" path="/run/scanlettMounted/GustaveRoud/E_Scan/Scans_complets/FondsArchive/CRLR_GR_MS3A8a/CRLR_GR_MS3A8a_5r_5.tif"/>
+        <p0112-roud-oeuvres:hasSeqnum knoraType="int_value">5</p0112-roud-oeuvres:hasSeqnum>
+        <p0112-roud-oeuvres:pageHasName knoraType="richtext_value">f. 5r</p0112-roud-oeuvres:pageHasName>
+        <p0112-roud-oeuvres:pageIsPartOfManuscript>
+            <p0112-roud-oeuvres:Manuscript knoraType="link_value" linkType="iri" target="http://rdfh.ch/0112/roud-oeuvres/3DNZAf1hSl-SVm8AE3zsOA"/>
+        </p0112-roud-oeuvres:pageIsPartOfManuscript>
+    </p0112-roud-oeuvres:Page>
+    <p0112-roud-oeuvres:Page id="CRLR_GR_MS3A8a_3r_3.tif" xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0112-roud-oeuvres="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#">
+        <knoraXmlImport:label>page_CRLR GR MS 3 A/8a___f. 3r___3</knoraXmlImport:label>
+        <knoraXmlImport:file mimetype="image/tiff" path="/run/scanlettMounted/GustaveRoud/E_Scan/Scans_complets/FondsArchive/CRLR_GR_MS3A8a/CRLR_GR_MS3A8a_3r_3.tif"/>
+        <p0112-roud-oeuvres:hasSeqnum knoraType="int_value">3</p0112-roud-oeuvres:hasSeqnum>
+        <p0112-roud-oeuvres:pageHasName knoraType="richtext_value">f. 3r</p0112-roud-oeuvres:pageHasName>
+        <p0112-roud-oeuvres:pageIsPartOfManuscript>
+            <p0112-roud-oeuvres:Manuscript knoraType="link_value" linkType="iri" target="http://rdfh.ch/0112/roud-oeuvres/3DNZAf1hSl-SVm8AE3zsOA"/>
+        </p0112-roud-oeuvres:pageIsPartOfManuscript>
+    </p0112-roud-oeuvres:Page>
+    <p0112-roud-oeuvres:Page id="CRLR_GR_MS3A8a_1r_1.tif" xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0112-roud-oeuvres="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#">
+        <knoraXmlImport:label>page_CRLR GR MS 3 A/8a___f. 1r___1</knoraXmlImport:label>
+        <knoraXmlImport:file mimetype="image/tiff" path="/run/scanlettMounted/GustaveRoud/E_Scan/Scans_complets/FondsArchive/CRLR_GR_MS3A8a/CRLR_GR_MS3A8a_1r_1.tif"/>
+        <p0112-roud-oeuvres:hasSeqnum knoraType="int_value">1</p0112-roud-oeuvres:hasSeqnum>
+        <p0112-roud-oeuvres:pageHasName knoraType="richtext_value">f. 1r</p0112-roud-oeuvres:pageHasName>
+        <p0112-roud-oeuvres:pageIsPartOfManuscript>
+            <p0112-roud-oeuvres:Manuscript knoraType="link_value" linkType="iri" target="http://rdfh.ch/0112/roud-oeuvres/3DNZAf1hSl-SVm8AE3zsOA"/>
+        </p0112-roud-oeuvres:pageIsPartOfManuscript>
+    </p0112-roud-oeuvres:Page>
+    <p0112-roud-oeuvres:Page id="CRLR_GR_MS3A8a_8r_8.tif" xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0112-roud-oeuvres="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#">
+        <knoraXmlImport:label>page_CRLR GR MS 3 A/8a___f. 8r___8</knoraXmlImport:label>
+        <knoraXmlImport:file mimetype="image/tiff" path="/run/scanlettMounted/GustaveRoud/E_Scan/Scans_complets/FondsArchive/CRLR_GR_MS3A8a/CRLR_GR_MS3A8a_8r_8.tif"/>
+        <p0112-roud-oeuvres:hasSeqnum knoraType="int_value">8</p0112-roud-oeuvres:hasSeqnum>
+        <p0112-roud-oeuvres:pageHasName knoraType="richtext_value">f. 8r</p0112-roud-oeuvres:pageHasName>
+        <p0112-roud-oeuvres:pageIsPartOfManuscript>
+            <p0112-roud-oeuvres:Manuscript knoraType="link_value" linkType="iri" target="http://rdfh.ch/0112/roud-oeuvres/3DNZAf1hSl-SVm8AE3zsOA"/>
+        </p0112-roud-oeuvres:pageIsPartOfManuscript>
+    </p0112-roud-oeuvres:Page>
+    <p0112-roud-oeuvres:Page id="CRLR_GR_MS3A8a_2r_2.tif" xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0112-roud-oeuvres="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#">
+        <knoraXmlImport:label>page_CRLR GR MS 3 A/8a___f. 2r___2</knoraXmlImport:label>
+        <knoraXmlImport:file mimetype="image/tiff" path="/run/scanlettMounted/GustaveRoud/E_Scan/Scans_complets/FondsArchive/CRLR_GR_MS3A8a/CRLR_GR_MS3A8a_2r_2.tif"/>
+        <p0112-roud-oeuvres:hasSeqnum knoraType="int_value">2</p0112-roud-oeuvres:hasSeqnum>
+        <p0112-roud-oeuvres:pageHasName knoraType="richtext_value">f. 2r</p0112-roud-oeuvres:pageHasName>
+        <p0112-roud-oeuvres:pageIsPartOfManuscript>
+            <p0112-roud-oeuvres:Manuscript knoraType="link_value" linkType="iri" target="http://rdfh.ch/0112/roud-oeuvres/3DNZAf1hSl-SVm8AE3zsOA"/>
+        </p0112-roud-oeuvres:pageIsPartOfManuscript>
+    </p0112-roud-oeuvres:Page>
+    <p0112-roud-oeuvres:Page id="CRLR_GR_MS3A8a_7r_7.tif" xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0112-roud-oeuvres="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#">
+        <knoraXmlImport:label>page_CRLR GR MS 3 A/8a___f. 7r___7</knoraXmlImport:label>
+        <knoraXmlImport:file mimetype="image/tiff" path="/run/scanlettMounted/GustaveRoud/E_Scan/Scans_complets/FondsArchive/CRLR_GR_MS3A8a/CRLR_GR_MS3A8a_7r_7.tif"/>
+        <p0112-roud-oeuvres:hasSeqnum knoraType="int_value">7</p0112-roud-oeuvres:hasSeqnum>
+        <p0112-roud-oeuvres:pageHasName knoraType="richtext_value">f. 7r</p0112-roud-oeuvres:pageHasName>
+        <p0112-roud-oeuvres:pageIsPartOfManuscript>
+            <p0112-roud-oeuvres:Manuscript knoraType="link_value" linkType="iri" target="http://rdfh.ch/0112/roud-oeuvres/3DNZAf1hSl-SVm8AE3zsOA"/>
+        </p0112-roud-oeuvres:pageIsPartOfManuscript>
+    </p0112-roud-oeuvres:Page>
+    <p0112-roud-oeuvres:Page id="CRLR_GR_MS3A3e_4r_7.tif" xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0112-roud-oeuvres="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#">
+        <knoraXmlImport:label>page_CRLR GR MS 3 A/3e___f. 4r___7</knoraXmlImport:label>
+        <knoraXmlImport:file mimetype="image/tiff" path="/run/scanlettMounted/GustaveRoud/E_Scan/Scans_complets/FondsArchive/CRLR_GR_MS3A3e/CRLR_GR_MS3A3e_4r_7.tif"/>
+        <p0112-roud-oeuvres:hasSeqnum knoraType="int_value">7</p0112-roud-oeuvres:hasSeqnum>
+        <p0112-roud-oeuvres:pageHasName knoraType="richtext_value">f. 4r</p0112-roud-oeuvres:pageHasName>
+        <p0112-roud-oeuvres:pageIsPartOfManuscript>
+            <p0112-roud-oeuvres:Manuscript knoraType="link_value" linkType="iri" target="http://rdfh.ch/0112/roud-oeuvres/jC_E5nbXTJ21M77Py_978g"/>
+        </p0112-roud-oeuvres:pageIsPartOfManuscript>
+    </p0112-roud-oeuvres:Page>
+    <p0112-roud-oeuvres:Page id="CRLR_GR_MS3A3e_5v_9.tif" xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0112-roud-oeuvres="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#">
+        <knoraXmlImport:label>page_CRLR GR MS 3 A/3e___f. 5v___9</knoraXmlImport:label>
+        <knoraXmlImport:file mimetype="image/tiff" path="/run/scanlettMounted/GustaveRoud/E_Scan/Scans_complets/FondsArchive/CRLR_GR_MS3A3e/CRLR_GR_MS3A3e_5v_9.tif"/>
+        <p0112-roud-oeuvres:hasSeqnum knoraType="int_value">9</p0112-roud-oeuvres:hasSeqnum>
+        <p0112-roud-oeuvres:pageHasName knoraType="richtext_value">f. 5v</p0112-roud-oeuvres:pageHasName>
+        <p0112-roud-oeuvres:pageIsPartOfManuscript>
+            <p0112-roud-oeuvres:Manuscript knoraType="link_value" linkType="iri" target="http://rdfh.ch/0112/roud-oeuvres/jC_E5nbXTJ21M77Py_978g"/>
+        </p0112-roud-oeuvres:pageIsPartOfManuscript>
+    </p0112-roud-oeuvres:Page>
+    <p0112-roud-oeuvres:Page id="CRLR_GR_MS3A3e_3r_5.tif" xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0112-roud-oeuvres="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#">
+        <knoraXmlImport:label>page_CRLR GR MS 3 A/3e___f. 3r___5</knoraXmlImport:label>
+        <knoraXmlImport:file mimetype="image/tiff" path="/run/scanlettMounted/GustaveRoud/E_Scan/Scans_complets/FondsArchive/CRLR_GR_MS3A3e/CRLR_GR_MS3A3e_3r_5.tif"/>
+        <p0112-roud-oeuvres:hasSeqnum knoraType="int_value">5</p0112-roud-oeuvres:hasSeqnum>
+        <p0112-roud-oeuvres:pageHasName knoraType="richtext_value">f. 3r</p0112-roud-oeuvres:pageHasName>
+        <p0112-roud-oeuvres:pageIsPartOfManuscript>
+            <p0112-roud-oeuvres:Manuscript knoraType="link_value" linkType="iri" target="http://rdfh.ch/0112/roud-oeuvres/jC_E5nbXTJ21M77Py_978g"/>
+        </p0112-roud-oeuvres:pageIsPartOfManuscript>
+    </p0112-roud-oeuvres:Page>
+    <p0112-roud-oeuvres:Page id="CRLR_GR_MS3A3e_2r_3.tif" xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0112-roud-oeuvres="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#">
+        <knoraXmlImport:label>page_CRLR GR MS 3 A/3e___f. 2r___3</knoraXmlImport:label>
+        <knoraXmlImport:file mimetype="image/tiff" path="/run/scanlettMounted/GustaveRoud/E_Scan/Scans_complets/FondsArchive/CRLR_GR_MS3A3e/CRLR_GR_MS3A3e_2r_3.tif"/>
+        <p0112-roud-oeuvres:hasSeqnum knoraType="int_value">3</p0112-roud-oeuvres:hasSeqnum>
+        <p0112-roud-oeuvres:pageHasName knoraType="richtext_value">f. 2r</p0112-roud-oeuvres:pageHasName>
+        <p0112-roud-oeuvres:pageIsPartOfManuscript>
+            <p0112-roud-oeuvres:Manuscript knoraType="link_value" linkType="iri" target="http://rdfh.ch/0112/roud-oeuvres/jC_E5nbXTJ21M77Py_978g"/>
+        </p0112-roud-oeuvres:pageIsPartOfManuscript>
+    </p0112-roud-oeuvres:Page>
+</knoraXmlImport:resources>

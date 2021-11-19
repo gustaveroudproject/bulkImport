@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<knoraXmlImport:resources xmlns="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#" xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0112-roud-oeuvres="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://api.knora.org/ontology/knoraXmlImport/v1# p0112-roud-oeuvres-xml-schemas/p0112-roud-oeuvres.xsd">
+	<p0112-roud-oeuvres:Page id="pub_Roud Gustave_Adieu_Servir_1947-05-29_p1_1.tif" xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0112-roud-oeuvres="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#">
+		<knoraXmlImport:label>page_pub_Roud Gustave_Adieu_Servir_1947-05-29___p. 1___1</knoraXmlImport:label>
+		<knoraXmlImport:file mimetype="image/tiff" path="/mnt/scanlettMounted/GustaveRoud/E_Scan/Scans_import/Publications/pub_Roud Gustave_Adieu_Servir_1947-05-29/pub_Roud Gustave_Adieu_Servir_1947-05-29_p1_1.tif"/>
+		<p0112-roud-oeuvres:hasSeqnum knoraType="int_value">1</p0112-roud-oeuvres:hasSeqnum>
+		<p0112-roud-oeuvres:pageHasName knoraType="richtext_value">p. 1</p0112-roud-oeuvres:pageHasName>
+		<p0112-roud-oeuvres:pageIsPartOfPublication>
+			<p0112-roud-oeuvres:Publication knoraType="link_value" linkType="iri" target="http://rdfh.ch/0112/cUVKOw95RAqIENg0kG_mYw"/>
+		</p0112-roud-oeuvres:pageIsPartOfPublication>
+	</p0112-roud-oeuvres:Page>
+	<p0112-roud-oeuvres:Page id="pub_Roud Gustave_Air de la solitude_Feuille_centrale_de_Zofingue_1953-01_p66_2.tif" xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0112-roud-oeuvres="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#">
+		<knoraXmlImport:label>page_pub_Roud Gustave_Air de la solitude_Feuille_centrale_de_Zofingue_1953-01___p. 66___2</knoraXmlImport:label>
+		<knoraXmlImport:file mimetype="image/tiff" path="/mnt/scanlettMounted/GustaveRoud/E_Scan/Scans_import/Publications/pub_Roud Gustave_Air de la solitude_Feuille_centrale_de_Zofingue_1953-01/pub_Roud Gustave_Air de la solitude_Feuille_centrale_de_Zofingue_1953-01_p66_2.tif"/>
+		<p0112-roud-oeuvres:hasSeqnum knoraType="int_value">2</p0112-roud-oeuvres:hasSeqnum>
+		<p0112-roud-oeuvres:pageHasName knoraType="richtext_value">p. 66</p0112-roud-oeuvres:pageHasName>
+		<p0112-roud-oeuvres:pageIsPartOfPublication>
+			<p0112-roud-oeuvres:Publication knoraType="link_value" linkType="iri" target="http://rdfh.ch/0112/-DexANXyTvaLL5Rl7E4IDQ"/>
+		</p0112-roud-oeuvres:pageIsPartOfPublication>
+	</p0112-roud-oeuvres:Page>
+	<p0112-roud-oeuvres:Page id="pub_Roud Gustave_Air de la solitude_Feuille_centrale_de_Zofingue_1953-01_p68_4.tif" xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0112-roud-oeuvres="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#">
+		<knoraXmlImport:label>page_pub_Roud Gustave_Air de la solitude_Feuille_centrale_de_Zofingue_1953-01___p. 68___4</knoraXmlImport:label>
+		<knoraXmlImport:file mimetype="image/tiff" path="/mnt/scanlettMounted/GustaveRoud/E_Scan/Scans_import/Publications/pub_Roud Gustave_Air de la solitude_Feuille_centrale_de_Zofingue_1953-01/pub_Roud Gustave_Air de la solitude_Feuille_centrale_de_Zofingue_1953-01_p68_4.tif"/>
+		<p0112-roud-oeuvres:hasSeqnum knoraType="int_value">4</p0112-roud-oeuvres:hasSeqnum>
+		<p0112-roud-oeuvres:pageHasName knoraType="richtext_value">p. 68</p0112-roud-oeuvres:pageHasName>
+		<p0112-roud-oeuvres:pageIsPartOfPublication>
+			<p0112-roud-oeuvres:Publication knoraType="link_value" linkType="iri" target="http://rdfh.ch/0112/-DexANXyTvaLL5Rl7E4IDQ"/>
+		</p0112-roud-oeuvres:pageIsPartOfPublication>
+	</p0112-roud-oeuvres:Page>
+	<p0112-roud-oeuvres:Page id="pub_Roud Gustave_Air de la solitude_Feuille_centrale_de_Zofingue_1953-01_p68c_6.tif" xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0112-roud-oeuvres="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#">
+		<knoraXmlImport:label>page_pub_Roud Gustave_Air de la solitude_Feuille_centrale_de_Zofingue_1953-01___p. 68c___6</knoraXmlImport:label>
+		<knoraXmlImport:file mimetype="image/tiff" path="/mnt/scanlettMounted/GustaveRoud/E_Scan/Scans_import/Publications/pub_Roud Gustave_Air de la solitude_Feuille_centrale_de_Zofingue_1953-01/pub_Roud Gustave_Air de la solitude_Feuille_centrale_de_Zofingue_1953-01_p68c_6.tif"/>
+		<p0112-roud-oeuvres:hasSeqnum knoraType="int_value">6</p0112-roud-oeuvres:hasSeqnum>
+		<p0112-roud-oeuvres:pageHasName knoraType="richtext_value">p. 68c</p0112-roud-oeuvres:pageHasName>
+		<p0112-roud-oeuvres:pageIsPartOfPublication>
+			<p0112-roud-oeuvres:Publication knoraType="link_value" linkType="iri" target="http://rdfh.ch/0112/-DexANXyTvaLL5Rl7E4IDQ"/>
+		</p0112-roud-oeuvres:pageIsPartOfPublication>
+	</p0112-roud-oeuvres:Page>
+	<p0112-roud-oeuvres:Page id="pub_Roud Gustave_Air de la solitude_Feuille_centrale_de_Zofingue_1953-01_p69_7.tif" xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0112-roud-oeuvres="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#">
+		<knoraXmlImport:label>page_pub_Roud Gustave_Air de la solitude_Feuille_centrale_de_Zofingue_1953-01___p. 69___7</knoraXmlImport:label>
+		<knoraXmlImport:file mimetype="image/tiff" path="/mnt/scanlettMounted/GustaveRoud/E_Scan/Scans_import/Publications/pub_Roud Gustave_Air de la solitude_Feuille_centrale_de_Zofingue_1953-01/pub_Roud Gustave_Air de la solitude_Feuille_centrale_de_Zofingue_1953-01_p69_7.tif"/>
+		<p0112-roud-oeuvres:hasSeqnum knoraType="int_value">7</p0112-roud-oeuvres:hasSeqnum>
+		<p0112-roud-oeuvres:pageHasName knoraType="richtext_value">p. 69</p0112-roud-oeuvres:pageHasName>
+		<p0112-roud-oeuvres:pageIsPartOfPublication>
+			<p0112-roud-oeuvres:Publication knoraType="link_value" linkType="iri" target="http://rdfh.ch/0112/-DexANXyTvaLL5Rl7E4IDQ"/>
+		</p0112-roud-oeuvres:pageIsPartOfPublication>
+	</p0112-roud-oeuvres:Page>
+	<p0112-roud-oeuvres:Page id="pub_Roud Gustave_Air de la solitude_Feuille_centrale_de_Zofingue_1953-01_p68b_5.tif" xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0112-roud-oeuvres="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#">
+		<knoraXmlImport:label>page_pub_Roud Gustave_Air de la solitude_Feuille_centrale_de_Zofingue_1953-01___p. 68b___5</knoraXmlImport:label>
+		<knoraXmlImport:file mimetype="image/tiff" path="/mnt/scanlettMounted/GustaveRoud/E_Scan/Scans_import/Publications/pub_Roud Gustave_Air de la solitude_Feuille_centrale_de_Zofingue_1953-01/pub_Roud Gustave_Air de la solitude_Feuille_centrale_de_Zofingue_1953-01_p68b_5.tif"/>
+		<p0112-roud-oeuvres:hasSeqnum knoraType="int_value">5</p0112-roud-oeuvres:hasSeqnum>
+		<p0112-roud-oeuvres:pageHasName knoraType="richtext_value">p. 68b</p0112-roud-oeuvres:pageHasName>
+		<p0112-roud-oeuvres:pageIsPartOfPublication>
+			<p0112-roud-oeuvres:Publication knoraType="link_value" linkType="iri" target="http://rdfh.ch/0112/-DexANXyTvaLL5Rl7E4IDQ"/>
+		</p0112-roud-oeuvres:pageIsPartOfPublication>
+	</p0112-roud-oeuvres:Page>
+	<p0112-roud-oeuvres:Page id="pub_Roud Gustave_Air de la solitude_Feuille_centrale_de_Zofingue_1953-01_p67_3.tif" xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0112-roud-oeuvres="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#">
+		<knoraXmlImport:label>page_pub_Roud Gustave_Air de la solitude_Feuille_centrale_de_Zofingue_1953-01___p. 67___3</knoraXmlImport:label>
+		<knoraXmlImport:file mimetype="image/tiff" path="/mnt/scanlettMounted/GustaveRoud/E_Scan/Scans_import/Publications/pub_Roud Gustave_Air de la solitude_Feuille_centrale_de_Zofingue_1953-01/pub_Roud Gustave_Air de la solitude_Feuille_centrale_de_Zofingue_1953-01_p67_3.tif"/>
+		<p0112-roud-oeuvres:hasSeqnum knoraType="int_value">3</p0112-roud-oeuvres:hasSeqnum>
+		<p0112-roud-oeuvres:pageHasName knoraType="richtext_value">p. 67</p0112-roud-oeuvres:pageHasName>
+		<p0112-roud-oeuvres:pageIsPartOfPublication>
+			<p0112-roud-oeuvres:Publication knoraType="link_value" linkType="iri" target="http://rdfh.ch/0112/-DexANXyTvaLL5Rl7E4IDQ"/>
+		</p0112-roud-oeuvres:pageIsPartOfPublication>
+	</p0112-roud-oeuvres:Page>
+	<p0112-roud-oeuvres:Page id="pub_Roud Gustave_Air de la solitude_Feuille_centrale_de_Zofingue_1953-01_p65_1.tif" xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0112-roud-oeuvres="http://api.knora.org/ontology/0112/roud-oeuvres/xml-import/v1#">
+		<knoraXmlImport:label>page_pub_Roud Gustave_Air de la solitude_Feuille_centrale_de_Zofingue_1953-01___p. 65___1</knoraXmlImport:label>
+		<knoraXmlImport:file mimetype="image/tiff" path="/mnt/scanlettMounted/GustaveRoud/E_Scan/Scans_import/Publications/pub_Roud Gustave_Air de la solitude_Feuille_centrale_de_Zofingue_1953-01/pub_Roud Gustave_Air de la solitude_Feuille_centrale_de_Zofingue_1953-01_p65_1.tif"/>
+		<p0112-roud-oeuvres:hasSeqnum knoraType="int_value">1</p0112-roud-oeuvres:hasSeqnum>
+		<p0112-roud-oeuvres:pageHasName knoraType="richtext_value">p. 65</p0112-roud-oeuvres:pageHasName>
+		<p0112-roud-oeuvres:pageIsPartOfPublication>
+			<p0112-roud-oeuvres:Publication knoraType="link_value" linkType="iri" target="http://rdfh.ch/0112/-DexANXyTvaLL5Rl7E4IDQ"/>
+		</p0112-roud-oeuvres:pageIsPartOfPublication>
+	</p0112-roud-oeuvres:Page>
+</knoraXmlImport:resources>
